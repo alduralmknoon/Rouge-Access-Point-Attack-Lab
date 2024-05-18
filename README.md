@@ -1,5 +1,5 @@
 # Rogue Access Point Attack
-
+_For Educational Purposes Only_
 ## Attack High Level Overview:
 1. Victim connects to fake AP.
 2. Victim connects to the internet via the fake AP.
